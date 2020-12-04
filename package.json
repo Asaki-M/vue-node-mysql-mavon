@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "highlight.js": "^10.1.1",
+    "highlight.js": "^10.4.1",
     "mavon-editor": "^2.9.0",
     "vue": "^2.6.11",
     "vue-markdown": "^2.2.4"
